@@ -4,7 +4,7 @@ Welcome to my **JavaScript Projects** repository! This collection showcases my j
 
 ## 📚 About the Projects
 
-In this repository, you'll find a range of JavaScript projects that highlight:
+Soon In this repository, you'll find a range of JavaScript projects that highlight:
 
 - DOM manipulation and event handling 🎉
 - Asynchronous programming with callbacks, promises, and async/await ⏳
