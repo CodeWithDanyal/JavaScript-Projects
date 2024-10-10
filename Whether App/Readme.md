@@ -1,7 +1,3 @@
-<!-- Whether Api -->
-
-https://api.openweathermap.org/data/2.5/weather?units=metric&q=london&appid=048e4206ba04f3de8e216928709f0d7c
-
 # Weather App
 
 ## Description
@@ -24,9 +20,9 @@ This project features a weather application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-![Weather App Preview](images/preview/Screenshot%20(18).png)
-![Weather App Preview](images/preview/Screenshot%20(19).png)
-![Weather App Preview](images/preview/Screenshot%20(20).png)
+![Weather App Preview](images/Preview/Screenshot%20(18).png)
+![Weather App Preview](images/Preview/Screenshot%20(19).png)
+![Weather App Preview](images/Preview/Screenshot%20(20).png)
 
 ## Usage
 
