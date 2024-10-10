@@ -1,0 +1,140 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Poppins";
+}
+
+.container {
+  background-color: #212121;
+  height: 100%;
+  padding: 0px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 400px;
+  padding: 90px 0px;
+  background: linear-gradient(to right, #4aceb0, #485473);
+  padding: 40px;
+  border-radius: 10px;
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 30px;
+}
+
+#inputBox {
+  padding: 13px;
+  border-radius: 20px;
+  width: 90%;
+  border: none;
+  outline: none;
+}
+
+#searchBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+#searchBtn > img {
+  width: 25px;
+}
+
+.imgBox {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#weatherImg {
+  width: 80px;
+}
+
+.weather-city {
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#celsius {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+#city-name {
+  font-weight: 400;
+}
+
+.dataBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+  gap: 20px;
+}
+
+.humidityBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.humidityBox > img,
+.windBox > img {
+  height: 50px;
+}
+
+.windBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-wrap: nowrap;
+}
+
+@media (max-width: 400px) {
+  .humidityBox > img,
+  .windBox > img {
+    height: 40px;
+  }
+
+  .humidityBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 330px) {
+  .dataBox {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-size: 15px;
+    gap: 20px;
+  }
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- Code by Danyal | https://github.com/CodeWithDanyal -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">
+        <form class="form">
+          <input
+            type="text"
+            required
+            placeholder="Enter city name"
+            id="inputBox"
+          />
+          <button type="submit" id="searchBtn">
+            <img src="images/search.png" alt="searchIcon" />
+          </button>
+        </form>
+
+        <div class="imgBox">
+          <img src="images/sun.png" alt="weather-img" id="weatherImg" />
+        </div>
+
+        <div class="weather-city">
+          <h1 id="celsius">22°C</h1>
+          <h1 id="city-name">Pakistan</h1>
+        </div>
+
+        <div class="dataBox">
+          <div class="humidityBox">
+            <img src="images/humidity.png" alt="humidity" />
+            <div class="humidityData">
+              <p id="humidityDataNum">53%</p>
+              <p class="HumidityName">Humidity</p>
+            </div>
+          </div>
+
+          <div class="windBox">
+            <img src="images/wind.png" alt="windImg" />
+            <div class="windData">
+              <p id="windSpeed">5.66 km/h</p>
+              <p>Wind Speed</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
