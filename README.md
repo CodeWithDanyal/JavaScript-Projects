@@ -1,21 +1,75 @@
-# JavaScript Projects 🚀💻
+# Danyal's GitHub Profile
 
-Welcome to my **JavaScript Projects** repository! This collection showcases my journey in mastering JavaScript, featuring a variety of projects that demonstrate different concepts and techniques.
+## Most Wanted Skills
 
-## 📚 About the Projects
+![Cybersecurity](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock_icon_blue_16px_01.svg/1200px-Lock_icon_blue_16px_01.svg.png)
 
-Soon In this repository, you'll find a range of JavaScript projects that highlight:
+### Most Used Skills and Tools
 
-- DOM manipulation and event handling 🎉
-- Asynchronous programming with callbacks, promises, and async/await ⏳
-- API interactions and data fetching 🌐
-- Game development and interactive web applications 🎮
-- Modern JavaScript features like ES6+ syntax and modules ⚡
+| Skill/Tool        | Usage Percentage |
+|-------------------|------------------|
+| HTML              | 30%              |
+| CSS               | 25%              |
+| JavaScript        | 20%              |
+| React             | 10%              |
+| Tailwind CSS      | 5%               |
+| Git & GitHub      | 5%               |
+| Redux             | 3%               |
+| Appwrite          | 2%               |
 
-Each project is designed to reinforce my understanding of JavaScript and improve my coding skills.
+---
 
-## 💡 How to Use
+### Contributions Stats
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:CodeWithDanyal/JavaScript-Projects.git
+- **Total Contributions**: _(your total contributions)_
+- **Current Streak**: _(your current streak)_
+- **Longest Streak**: _(your longest streak)_
+
+| Date Range             | Contributions            |
+|------------------------|--------------------------|
+| _(Add start date)_      | _(Your total contributions)_ |
+| _(Your current streak)_ | _(Your longest streak)_  |
+
+---
+
+### Trophies and Achievements
+
+| Category        | Title               | Points  |
+|-----------------|---------------------|---------|
+| Organizations   | Full Stack Explorer  | 5 pt    |
+| Commits         | Consistent Committer | 8.5kpt  |
+| Followers       | Growing Influence    | 2kpt    |
+| Stars           | Star Master          | -       |
+| Issues          | Bug Hunter           | -       |
+| Pull Requests   | PR Contributor       | -       |
+
+---
+
+### Projects on GitHub
+
+- **Responsive Login Form**  
+  Built with HTML, CSS, and BoxIcons  
+  [View Project](https://github.com/yourusername/responsive-login-form)
+
+- **Profile Card UI Design**  
+  Built with HTML, CSS, and BoxIcons  
+  [View Project](https://github.com/yourusername/profile-card-ui)
+
+- **Flipping Card UI**  
+  Built with HTML and CSS  
+  [View Project](https://github.com/yourusername/flipping-card-ui)
+
+- **Credit Card UI Design**  
+  Built with HTML, CSS, and BoxIcons  
+  [View Project](https://github.com/yourusername/credit-card-ui)
+
+- **Sidebar Navigation**  
+  Built with HTML and CSS  
+  [View Project](https://github.com/yourusername/sidebar-navigation)
+
+- **Responsive Pricing Table**  
+  Built with HTML, CSS, and BoxIcons  
+  [View Project](https://github.com/yourusername/pricing-table)
+
+---
+
