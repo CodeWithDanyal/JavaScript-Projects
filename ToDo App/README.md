@@ -19,7 +19,7 @@ This project is a simple and interactive Todo List application built with HTML, 
 
 ## Preview
 
-![Todo List Preview](images/Screenshot%20(22).png)
+![Todo List Preview](images/preview.png)
 
 ## Usage
 
