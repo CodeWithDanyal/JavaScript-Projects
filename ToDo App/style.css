@@ -1,0 +1,117 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 25px 10px;
+  background: linear-gradient(135deg, #153677, #4e0857);
+  font-family: "Poppins";
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  width: 400px;
+  background-color: white;
+  height: max-content;
+  border-radius: 20px;
+  padding: 20px;
+  overflow: scroll;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.heading > h1 {
+  font-size: 25px;
+}
+
+.logo {
+  width: 25px;
+}
+
+.form {
+  background-color: gainsboro;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#input {
+  flex: 1;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.addBtn {
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  background-color: orangered;
+  color: white;
+  font-size: 17px;
+  border-radius: 20px;
+}
+
+.todoList {
+  list-style: none;
+  height: max-content;
+  padding: 20px;
+}
+
+li {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: gainsboro;
+  margin-bottom: 10px;
+}
+
+li > p {
+  flex: 1;
+  overflow: scroll;
+  text-wrap: nowrap;
+}
+
+.removeBtn {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.8;
+}
