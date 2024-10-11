@@ -1,75 +1,47 @@
-# Danyal's GitHub Profile
+# Samarjit Sahoo
 
-## Most Wanted Skills
+## Most wanted Language
 
-![Cybersecurity](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock_icon_blue_16px_01.svg/1200px-Lock_icon_blue_16px_01.svg.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-### Most Used Skills and Tools
+### Most Used Languages
 
-| Skill/Tool        | Usage Percentage |
-|-------------------|------------------|
-| HTML              | 30%              |
-| CSS               | 25%              |
-| JavaScript        | 20%              |
-| React             | 10%              |
-| Tailwind CSS      | 5%               |
-| Git & GitHub      | 5%               |
-| Redux             | 3%               |
-| Appwrite          | 2%               |
+| Language         | Usage Percentage |
+|------------------|------------------|
+| Jupyter Notebook | 34.93%           |
+| C                | 16.06%           |
+| Java             | 15.43%           |
+| CSS              | 12.91%           |
+| HTML             | 6.45%            |
+| Python           | 5.43%            |
+| JavaScript       | 3.21%            |
+| PHP              | 2.82%            |
+| C++              | 2.43%            |
+| Pug              | 0.34%            |
 
 ---
 
 ### Contributions Stats
 
-- **Total Contributions**: _(your total contributions)_
-- **Current Streak**: _(your current streak)_
-- **Longest Streak**: _(your longest streak)_
+- **Total Contributions**: 13,437
+- **Current Streak**: 393 Days
+- **Longest Streak**: 393 Days
 
-| Date Range             | Contributions            |
-|------------------------|--------------------------|
-| _(Add start date)_      | _(Your total contributions)_ |
-| _(Your current streak)_ | _(Your longest streak)_  |
+| Date Range        | Contributions      |
+|-------------------|--------------------|
+| Sep 16, 2023 - Present | 13,437 Total Contributions |
+| Sep 16, 2023 - Oct 12 | 393 Streak       |
 
 ---
 
 ### Trophies and Achievements
 
-| Category        | Title               | Points  |
-|-----------------|---------------------|---------|
-| Organizations   | Full Stack Explorer  | 5 pt    |
-| Commits         | Consistent Committer | 8.5kpt  |
-| Followers       | Growing Influence    | 2kpt    |
-| Stars           | Star Master          | -       |
-| Issues          | Bug Hunter           | -       |
-| Pull Requests   | PR Contributor       | -       |
-
----
-
-### Projects on GitHub
-
-- **Responsive Login Form**  
-  Built with HTML, CSS, and BoxIcons  
-  [View Project](https://github.com/yourusername/responsive-login-form)
-
-- **Profile Card UI Design**  
-  Built with HTML, CSS, and BoxIcons  
-  [View Project](https://github.com/yourusername/profile-card-ui)
-
-- **Flipping Card UI**  
-  Built with HTML and CSS  
-  [View Project](https://github.com/yourusername/flipping-card-ui)
-
-- **Credit Card UI Design**  
-  Built with HTML, CSS, and BoxIcons  
-  [View Project](https://github.com/yourusername/credit-card-ui)
-
-- **Sidebar Navigation**  
-  Built with HTML and CSS  
-  [View Project](https://github.com/yourusername/sidebar-navigation)
-
-- **Responsive Pricing Table**  
-  Built with HTML, CSS, and BoxIcons  
-  [View Project](https://github.com/yourusername/pricing-table)
-
----
+| Category        | Title              | Points  |
+|-----------------|--------------------|---------|
+| Organizations   | Jack of all Trades  | 3 pt    |
+| Commits         | God Committer       | 12.5kpt |
+| Followers       | Super Celebrity     | 7.1kpt  |
+| Stars           | Star Master         | -       |
+| Issues          | Issue Tracker       | -       |
+| Pull Requests   | PR Legend           | -       |
 
