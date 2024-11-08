@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!-- Code by Danyal | https://github.com/CodeWithDanyal -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your MemoMate</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <h1 class="heading">MemoMate</h1>
+      <p>
+        Created By
+        <a href="https://www.linkedin.com/in/danyal-khan-836a02331/">Danyal</a>
+      </p>
+    </nav>
+    <div class="container">
+      <section class="notesContainer">
+        <textarea
+          name="heading"
+          id="headingBox"
+          placeholder="Enter Title"
+          rows="4"
+          cols="20"
+          required
+        ></textarea>
+
+        <p class="dateBox"></p>
+
+        <hr />
+
+        <textarea
+          name="detail"
+          id="detailBox"
+          placeholder="Enter Note"
+          rows="10"
+          cols="20"
+          required
+        ></textarea>
+
+        <div class="buttons">
+          <button type="submit" class="addBtn" title="Add task">✔</button>
+          <button type="reset" class="removeBtn" title="reset task">✖</button>
+        </div>
+      </section>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
